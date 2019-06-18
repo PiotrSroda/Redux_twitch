@@ -1,5 +1,8 @@
 import React from "react";
-import { BrowserRouter, Route } from "react-router-dom";
+import {
+  BrowserRouter,
+  Route
+} from "react-router-dom";
 import StreamCreate from "./streams/StreamCreate";
 import StreamEdit from "./streams/StreamEdit";
 import StreamShow from "./streams/StreamShow";
