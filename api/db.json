@@ -1,16 +1,6 @@
 {
   "streams": [
     {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 1
-    },
-    {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 2
-    },
-    {
       "title": "fdsfdsfds",
       "description": "dsfdsfdfd",
       "id": 3
@@ -29,6 +19,21 @@
       "title": "asdasdascesc",
       "description": "xccxzczcsz",
       "id": 6
+    },
+    {
+      "title": "asdcxzcxd",
+      "description": "dsaxzcxzdacsz",
+      "id": 7
+    },
+    {
+      "title": "xxczxc",
+      "description": "aaaa",
+      "id": 8
+    },
+    {
+      "description": "xzczsa",
+      "title": "ccdc",
+      "id": 9
     }
   ]
 }
